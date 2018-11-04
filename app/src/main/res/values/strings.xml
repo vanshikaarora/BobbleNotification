@@ -1,0 +1,13 @@
+<resources>
+    <string name="service_name">NotificationTTS Service</string>
+    <string name="accessibility_service_description">NotificationTTS Service Description</string>
+    <string name="tv1">This application will read the Names of the notifications.\nThis application will therefor
+        monitor the notifications.
+    </string>
+    <string name="tv2">This application needs additional permission to make this work.\n(Normal applications are nog
+        allowed to look at other applications notifications!!)\n\nTherefor this appliction must be approved as
+        Accessibility-Service.\n\nPress the Button below and Enable the NotificationTTS Accessability Service.\n\n
+    </string>
+    <string name="btn_text">Click here !</string>
+    <string name="app_name">Notofication</string>
+</resources>
